@@ -30,3 +30,17 @@ This repository documents my hands-on experience with **Amazon Bedrock Text Play
 - Set region to **US East (N. Virginia) us-east-1**
 
 ### 2. Accessing Bedrock Text Playground
+
+![Text Playground Interface](screenshots/text-playground.png)
+
+### 3. Model Selection
+Selected **Amazon Nova Lite 1.0** from available foundation models
+
+![Model Selection](screenshots/model-selection.png)
+
+## 💬 Prompt Engineering Experiments
+
+### Basic Prompt: Leave Application Email
+**Prompt:** "Generate an email for applying leave to your manager"
+
+**Response:**
